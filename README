@@ -1,0 +1,6 @@
+//Copyright Antoine Toulme 2008
+
+This repository contains a script that downloads all the images from the Eclipse repositories.
+A list of those repositories is kept as a YAML file next to this file: repositories.yml
+
+To make this script work, you need to have the CVS, the SVN clients and Ruby installed.
